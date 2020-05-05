@@ -1,0 +1,14 @@
+{
+  "name": "soatok/dumb-hash-experiment",
+  "type": "project",
+  "license": "ISC",
+  "autoload": {
+    "files": [
+      "lib/dumbhash.php"
+    ]
+  },
+  "require": {
+    "php": "^7|^8",
+    "paragonie/sodium_compat": "^1"
+  }
+}
